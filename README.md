@@ -19,3 +19,5 @@ Power Query.
 - Understand the concept of one-to-many relationship between the tables & two way filters.
 - Learn many DAX functions like SUMX, COUNTX, CALCULATE, SWITCH, ALL, DATESYTD, DATESINPERIOD etc.
 -  Tried using a color palette and stick with that colors throughout the dashboard
+
+![image](https://github.com/Sid-TheAnalyst/Maven-Market-Revenue-Analysis/blob/main/Maven_Analytics_Project/Dashboard%20Screenshot.jpg)
